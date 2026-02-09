@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/shootingstar/dev/ostep-homework/cpu-api/homework/open'
+relocations:     []
+...
